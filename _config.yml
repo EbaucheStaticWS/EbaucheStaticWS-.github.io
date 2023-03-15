@@ -1,0 +1,22 @@
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+
+
+# Optional configuration options
+
+title: TDPH4HE
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Eleanor
+url: "https://github.com/EbaucheStaticWS/EbaucheStaticWS.github.io/StaticWebSiteTremplateTrialOne.github.io"
+
+author: Paul MICHAUX
+github_username:  77Michaux
+
+
+

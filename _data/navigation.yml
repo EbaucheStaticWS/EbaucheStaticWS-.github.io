@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /aboutus.html
+- name: Goals & Results
+  link: /goalsresults.html
+- name: Partners
+  link: /partners.html
+- name: Contact Page
+  link: /contactpage.html
